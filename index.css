@@ -8,8 +8,8 @@ body {
     margin: 0;
     background-color: rgb(156, 154, 196);
     display: flex;
-    justify-content: center; /* centrerar horisontellt */
-    align-items: center;     /* centrerar vertikalt */
+    justify-content: center; 
+    align-items: center;     
     height: 100vh;   
      flex-wrap: wrap;   
 }
@@ -46,8 +46,8 @@ h3 {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: auto; /*changed*/
-    min-width: 6rem;/*changed*/
+    width: auto; 
+    min-width: 6rem;
 }
 
 .scores {
